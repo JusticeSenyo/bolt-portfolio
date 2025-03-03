@@ -6,32 +6,32 @@ const Skills = () => {
     {
       category: "Frontend Development",
       icon: <Layout className="w-8 h-8 text-cyan-500" />,
-      technologies: ["React", "Vue.js", "Next.js", "TypeScript", "Tailwind CSS", "WebGL"]
+      technologies: ["React", "html", "CSS", "TypeScript", "Tailwind CSS"]
     },
     {
       category: "Backend Development",
       icon: <Server className="w-8 h-8 text-cyan-500" />,
-      technologies: ["Node.js", "Python", "Go", "Java", "GraphQL", "REST"]
+      technologies: ["Node.js","Express.js", "Python", "REST"]
     },
     {
       category: "Database",
       icon: <Database className="w-8 h-8 text-cyan-500" />,
-      technologies: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "Cassandra"]
+      technologies: ["MongoDB"]
     },
-    {
-      category: "Mobile Development",
-      icon: <Smartphone className="w-8 h-8 text-cyan-500" />,
-      technologies: ["React Native", "Flutter", "iOS", "Android", "PWA"]
-    },
-    {
-      category: "DevOps & Cloud",
-      icon: <Cloud className="w-8 h-8 text-cyan-500" />,
-      technologies: ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform"]
-    },
+    // {
+    //   category: "Mobile Development",
+    //   icon: <Smartphone className="w-8 h-8 text-cyan-500" />,
+    //   technologies: ["React Native", "Flutter", "iOS", "Android", "PWA"]
+    // },
+    // {
+    //   category: "DevOps & Cloud",
+    //   icon: <Cloud className="w-8 h-8 text-cyan-500" />,
+    //   technologies: ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform"]
+    // },
     {
       category: "Programming Languages",
       icon: <Code className="w-8 h-8 text-cyan-500" />,
-      technologies: ["JavaScript", "Python", "Go", "Java", "C++", "Rust"]
+      technologies: ["JavaScript", "Python", "Java", "C++"]
     }
   ];
 

@@ -11,10 +11,10 @@ const Hero = () => {
         <Terminal className="w-16 h-16 mx-auto mb-8 text-cyan-500" />
         <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">
-            John Doe
+            Senyo Justice
           </span>
         </h1>
-        <p className="text-xl md:text-2xl text-gray-300 mb-8">Fullstack Developer & Software Architect</p>
+        <p className="text-xl md:text-2xl text-gray-300 mb-8">Fullstack Developer</p>
         <div className="typing-effect text-lg md:text-xl text-cyan-400 mb-12">
           Building the future, one line of code at a time
         </div>

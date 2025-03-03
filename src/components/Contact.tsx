@@ -28,15 +28,15 @@ const Contact = () => {
             <div className="space-y-6">
               <div className="flex items-center">
                 <Mail className="w-6 h-6 text-cyan-500 mr-4" />
-                <span className="text-gray-300">john.doe@example.com</span>
+                <span className="text-gray-300">senyojustice36@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <Phone className="w-6 h-6 text-cyan-500 mr-4" />
-                <span className="text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-gray-300">+233 (550) 74-7566</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="w-6 h-6 text-cyan-500 mr-4" />
-                <span className="text-gray-300">San Francisco, CA</span>
+                <span className="text-gray-300">Accra, East-legon</span>
               </div>
             </div>
           </div>

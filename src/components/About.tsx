@@ -24,28 +24,28 @@ const About = () => {
               </span>
             </h2>
             <p className="text-gray-300 mb-8">
-              I'm a passionate fullstack developer with over 8 years of experience in building scalable applications and innovative solutions. My expertise spans across modern web technologies, cloud architecture, and emerging tech like AI and blockchain.
+              I'm a passionate fullstack developer with years of experience in building scalable applications and innovative solutions. My expertise spans across modern web technologies, cloud architecture, and emerging tech like AI and blockchain.
             </p>
             <div className="space-y-6">
               <div className="flex items-center">
                 <Briefcase className="w-6 h-6 text-cyan-500 mr-4" />
                 <div>
                   <h3 className="text-lg font-semibold text-white">Experience</h3>
-                  <p className="text-gray-400">Senior Software Engineer at Tech Giants</p>
+                  <p className="text-gray-400">Senior Software Engineer at Yiska</p>
                 </div>
               </div>
               <div className="flex items-center">
                 <GraduationCap className="w-6 h-6 text-cyan-500 mr-4" />
                 <div>
                   <h3 className="text-lg font-semibold text-white">Education</h3>
-                  <p className="text-gray-400">M.S. in Computer Science, Stanford University</p>
+                  <p className="text-gray-400">BSC.Information Technology</p>
                 </div>
               </div>
               <div className="flex items-center">
                 <Award className="w-6 h-6 text-cyan-500 mr-4" />
                 <div>
                   <h3 className="text-lg font-semibold text-white">Achievements</h3>
-                  <p className="text-gray-400">AWS Certified Solutions Architect</p>
+                  <p className="text-gray-400">placeholder</p>
                 </div>
               </div>
             </div>
